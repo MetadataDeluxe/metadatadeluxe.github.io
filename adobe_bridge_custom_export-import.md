@@ -22,7 +22,7 @@ Backup your files first
 IT IS HIGHLY RECOMMENDED THAT YOU BACKUP YOUR IMAGE FILES BEFORE USING THIS OR ANY BRIDGE PLUGIN.	
 THERE ARE NO WARRANTIES FOR LOSS OR UNINTENDED MODIFICATION OF DATA.*
 
-<a href="https://github.com/MetadataDeluxe/adobe_bridge_custom_export-import/customizable_export_import.zip">[[/images/download_button_003.png]</a>
+<a href="https://github.com/MetadataDeluxe/adobe_bridge_custom_export-import/customizable_export_import.zip">![Download button](/images/download_button_003.png)</a>
 version 2020-01-28
 
 ## Installation
