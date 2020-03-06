@@ -5,7 +5,7 @@ This is a JavaScript extension for [Adobe Bridge](https://www.adobe.com/products
 
 Supported file types: ai, avi, bmp, dng, flv, gif, indd, indt, jpg, mp2, mp3, mp4, mov, pdf, png, psd, swf, tiff, wav, wma, wmv
 
-This plugin is written in [Adobe ScriptUI](https://estk.aenhancers.com/index.html) and utilizes the Adobe Bridge JavaScript object model
+This extension is written in [Adobe ScriptUI](https://estk.aenhancers.com/index.html) and utilizes the Adobe Bridge JavaScript object model
 
 ## Main features
  - Export-import from select file(s) or from an entire folder (with option to include all subfolders)
@@ -21,7 +21,7 @@ This plugin is written in [Adobe ScriptUI](https://estk.aenhancers.com/index.htm
 ## Before you begin
 Backup your files first
 	
-IT IS HIGHLY RECOMMENDED THAT YOU BACKUP YOUR IMAGE FILES BEFORE USING THIS OR ANY BRIDGE PLUGIN.	
+IT IS HIGHLY RECOMMENDED THAT YOU BACKUP YOUR IMAGE FILES BEFORE USING THIS OR ANY BRIDGE EXTENSION.	
 THERE ARE NO WARRANTIES FOR LOSS OR UNINTENDED MODIFICATION OF DATA.*
 
 <a href="https://github.com/MetadataDeluxe/adobe_bridge_custom_export-import/archive/release/custom_export_import.zip">![Download button](/images/download_button_003.png)</a>
