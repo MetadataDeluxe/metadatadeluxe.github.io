@@ -1,3 +1,5 @@
+[Home](/index.md)
+
 ## Embedded Metadata Export-Import Plugin for Adobe Bridge
 This is a JavaScript plugin for [Adobe Bridge](https://www.adobe.com/products/bridge.html) CS5 and higher that allows the user to export and import embedded XMP metadata from media files.
 
