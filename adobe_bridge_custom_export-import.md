@@ -1,6 +1,11 @@
 [Home](/index.md)
 
 ## Adobe Bridge User Customizable Export-Import
+- [Installation](https://metadatadeluxe.github.io/adobe_bridge_custom_export-import.html#installation)
+- [Customize fields](https://metadatadeluxe.github.io/adobe_bridge_custom_export-import.html#customize-fields)
+- [Export](https://metadatadeluxe.github.io/adobe_bridge_custom_export-import.html#export)
+- [Import](https://metadatadeluxe.github.io/adobe_bridge_custom_export-import.html#import)
+
 This is a JavaScript extension for [Adobe Bridge](https://www.adobe.com/products/bridge.html) CS5 and higher that allows the user to export and import embedded XMP metadata from media files.
 
 Supported file types: ai, avi, bmp, dng, flv, gif, indd, indt, jpg, mp2, mp3, mp4, mov, pdf, png, psd, swf, tiff, wav, wma, wmv
@@ -19,8 +24,9 @@ This extension is written in [Adobe ScriptUI](https://estk.aenhancers.com/index.
    - Specify the order of the fields/column headers
 
 ## Before you begin
-Backup your files first
-	
+This is a free open source project released under the MIT License (MIT)
+
+Backup your files first	
 IT IS HIGHLY RECOMMENDED THAT YOU BACKUP YOUR IMAGE FILES BEFORE USING THIS OR ANY BRIDGE EXTENSION.	
 THERE ARE NO WARRANTIES FOR LOSS OR UNINTENDED MODIFICATION OF DATA.*
 
