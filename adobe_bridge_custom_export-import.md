@@ -22,7 +22,7 @@ Backup your files first
 IT IS HIGHLY RECOMMENDED THAT YOU BACKUP YOUR IMAGE FILES BEFORE USING THIS OR ANY BRIDGE PLUGIN.	
 THERE ARE NO WARRANTIES FOR LOSS OR UNINTENDED MODIFICATION OF DATA.*
 
-<a href="https://github.com/MetadataDeluxe/adobe_bridge_custom_export-import/customizable_export_import.zip">[[images/download_button_003.png|ALT TEXT]]</a>
+<a href="https://github.com/MetadataDeluxe/adobe_bridge_custom_export-import/customizable_export_import.zip">[[/images/download_button_003.png]</a>
 version 2020-01-28
 
 ## Installation
@@ -46,9 +46,7 @@ version 2020-01-28
   2. Click "Metadata Export-Import" on the dropdown menu
   3. The first time you open the plugin, you have to set up the fields you want to export/import. You will see:
 
-![Fields: UNDEFINED](https://github.com/GregReser/Customizable_Export-Import/blob/master/screenshots/undefined_001.png)
+![Fields: UNDEFINED](/images/undefined_001.png)
 
 Click the "Edit" button to see the Customize Fields window.
-
-See [Customize Fields](https://github.com/GregReser/Customizable_Export-Import/wiki/Customize-fields) for instructions
 
