@@ -24,11 +24,11 @@ This extension is written in [Adobe ScriptUI](https://estk.aenhancers.com/index.
    - Specify the order of the fields/column headers
 
 ## Before you begin
-This is a free open source project released under the MIT License (MIT)
+[This is a free open source project released under the MIT License](https://github.com/MetadataDeluxe/adobe_bridge_custom_export-import/blob/master/LICENSE.txt)
 
 Backup your files first	
 IT IS HIGHLY RECOMMENDED THAT YOU BACKUP YOUR IMAGE FILES BEFORE USING THIS OR ANY BRIDGE EXTENSION.	
-THERE ARE NO WARRANTIES FOR LOSS OR UNINTENDED MODIFICATION OF DATA.*
+THERE ARE NO WARRANTIES FOR LOSS OR UNINTENDED MODIFICATION OF DATA.
 
 <a href="https://github.com/MetadataDeluxe/adobe_bridge_custom_export-import/archive/release/custom_export_import.zip">![Download button](/images/download_button_003.png)</a>
 version 2020-01-28
