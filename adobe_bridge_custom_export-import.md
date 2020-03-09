@@ -1,4 +1,4 @@
-[Home](/index.md)
+Metadata Deluxe > [Home](/index.md)
 
 ## Adobe Bridge User Customizable Export-Import
 - [Installation](https://metadatadeluxe.github.io/adobe_bridge_custom_export-import.html#installation)
