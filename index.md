@@ -5,4 +5,4 @@ image, video, audio, PDF files
 - [User customizable export-import](/adobe_bridge_custom_export-import.md)
 
 
-[Questions/Comments](mailto:metadatadeluxe@gmail.com)
+[Feedback: metadatadeluxe@gmail.com](mailto:metadatadeluxe@gmail.com)
