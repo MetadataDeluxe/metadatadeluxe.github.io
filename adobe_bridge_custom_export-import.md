@@ -23,10 +23,10 @@ This extension is written in [Adobe ScriptUI](https://estk.aenhancers.com/index.
    - Specify field name/column header (allows synchronization with local field names)
    - Specify the order of the fields/column headers
 
-## Installation
-
-### Before you begin
 [This is a free open source project released under the MIT License](https://github.com/MetadataDeluxe/adobe_bridge_custom_export-import/blob/master/LICENSE.txt)
+
+## Installation
+### Before you begin
 
 Backup your files first	
 IT IS HIGHLY RECOMMENDED THAT YOU BACKUP YOUR IMAGE FILES BEFORE USING THIS OR ANY BRIDGE EXTENSION.	
