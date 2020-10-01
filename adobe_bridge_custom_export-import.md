@@ -55,9 +55,9 @@ version 2020-01-28
   2. Click "Metadata Export-Import" on the dropdown menu
   3. The first time you open the plugin, you have to set up the fields you want to export/import. You will see:
 
-![Fields: UNDEFINED](/images/undefined_001.png)
+![Fields: UNDEFINED](/images/custom_no_fields.png)
 
-Click the "Edit" button to see the Customize Fields window.
+Click the "Edit Fields" button to see the Customize Fields window.
 
 ## Customize fields
 ![Adobe Bridge metadata customize plugin screen](/images/customize_001.png)
