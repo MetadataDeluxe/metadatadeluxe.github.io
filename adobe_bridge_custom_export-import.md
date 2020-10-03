@@ -51,7 +51,7 @@ version 2020-10-03
  8. When prompted, confirm the installation of "custom_export_import"
 
 ## Open the plugin in Adobe Bridge
-  1. Locate the menu "Metadata Deluxe at the top of the Bridge window (to the right of "Help")
+  1. Locate the menu "Metadata Deluxe" at the top of the Bridge window (to the right of "Help")
   2. Click "Custom Metadata Export-Import" on the dropdown menu
   3. The first time you open the plugin, you have to set up the fields you want to export/import. You will see:
 
