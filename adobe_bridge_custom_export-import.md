@@ -102,7 +102,8 @@ Edit your list
    - Click 'Delete' to remove a field from your list
  - Save your list
    
-Edit a field in your list
+Edit details of a field in your list
+![Adobe Bridge metadata customize plugin, edit_field_details window](/images/edit_field_details.png)
  - Double click a field (an edit window will open)
    - Edit the Label (any label you want)
    - For Custom fields only:
@@ -110,7 +111,7 @@ Edit a field in your list
      - Edit the XMP_Property (namespace prefix:name)
      - Select the XMP_Type ('text', 'bag', 'seq', 'langAlt', 'boolean', 'date')
    - Click 'Save'
- - Save your edited list
+ - Save your list
 
 ## Custom mapping file details
 
