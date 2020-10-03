@@ -101,7 +101,16 @@ Edit your list
    - Click 'Move Up' or 'Move Down' to change the order of your field list
    - Click 'Delete' to remove a field from your list
  - Save your list
-   - Name your list
+   
+Edit a field in your list
+ - Double click a field (an edit window will open)
+   - Edit the Label (any label you want)
+   - For Custom fields only:
+     - Edit the Namespace (must be a URL ending in '#' or '/')
+     - Edit the XMP_Property (namespace prefix:name)
+     - Select the XMP_Type ('text', 'bag', 'seq', 'langAlt', 'boolean', 'date')
+   - Click 'Save'
+ - Save your edited list
 
 ## Custom mapping file details
 
