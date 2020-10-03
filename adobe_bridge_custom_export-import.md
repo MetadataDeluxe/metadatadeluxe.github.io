@@ -104,6 +104,7 @@ Edit your list
    
 Edit details of a field in your list
 ![Adobe Bridge metadata customize plugin, edit_field_details window](/images/edit_field_details.png)
+
  - Double click a field (an edit window will open)
    - Edit the Label (any label you want)
    - For Custom fields only:
