@@ -57,21 +57,21 @@ version 2020-10-01
 
 ![Fields: UNDEFINED](/images/custom_no_fields.png)
 
-Click the "Edit Fields" button to see the Customize Fields window.
+Click the "Customize Fields List" button to see the Customize Fields window.
 
 ## Customize fields
 ![Adobe Bridge metadata customize plugin screen](/images/customize_001.png)
 
 ## Current Fields Section
 Orange text at top left is the name of the currently loaded field list
- - 'Undefined' means you have no list loaded, so you need to create one
+ - 'UNDEFINED' means you have no list loaded, so you need to create one
 
-Change
+Change button
  - Select a previously saved mapping and it will be loaded (view the mapping below)
  - Click Save to export/import using the mapping
  - You can edit the loaded mapping and Save (you will be prompted to name it)
 
-Manage	
+Manage button
  - See all of your previously saved mapping files
  - Mapping files are text files and can be deleted, copied, and edited
  - Edit a mapping in a text editor
@@ -84,7 +84,7 @@ To load fields from a standard schema (File, IPTC Core, Dublin Core, VRA Core)
   - You can edit your list after it loads
 
 Add a field to your list
- - Schema: select one (File, IPTC Core, Dublin Core, VRA Core, Custom)
+ - Schema: select a schema
  - Field: select a field from the schema
    - Change the Label (optional)
    - Click 'Add' to insert the field to the end of your list
