@@ -33,7 +33,7 @@ IT IS HIGHLY RECOMMENDED THAT YOU BACKUP YOUR IMAGE FILES BEFORE USING THIS OR A
 THERE ARE NO WARRANTIES FOR LOSS OR UNINTENDED MODIFICATION OF DATA.
 
 <a href="https://github.com/MetadataDeluxe/adobe_bridge_custom_export-import/archive/release/custom_export_import.zip">![Download button](/images/download_button_003.png)</a>
-version 2020-10-01
+version 2020-10-03
 
  1. Start Adobe Bridge
  2. Go to Bridge Preferences
@@ -44,15 +44,15 @@ version 2020-10-01
     Mac:
       - Go to Adobe Bridge --> Preferences --> Startup Scripts
  3. Click "Reveal My Startup Scripts".  This will open the correct folder
- 4. In this folder, copy the the downloaded file "user_customizable_export_import.jsx"
+ 4. In this folder, copy the the downloaded file "custom_export_import.jsx"
  5. Close the folder
  6. Quit Bridge
  7. Start Bridge
- 8. When prompted, confirm the installation of "user_customizable_export_import"
+ 8. When prompted, confirm the installation of "custom_export_import"
 
 ## Open the plugin in Adobe Bridge
-  1. Locate the menu "Custom Metadata at the top of the Bridge window (to the right of "Help")
-  2. Click "Metadata Export-Import" on the dropdown menu
+  1. Locate the menu "Metadata Deluxe at the top of the Bridge window (to the right of "Help")
+  2. Click "Custom Metadata Export-Import" on the dropdown menu
   3. The first time you open the plugin, you have to set up the fields you want to export/import. You will see:
 
 ![Fields: UNDEFINED](/images/custom_no_fields.png)
