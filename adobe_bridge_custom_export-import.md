@@ -33,7 +33,7 @@ IT IS HIGHLY RECOMMENDED THAT YOU BACKUP YOUR IMAGE FILES BEFORE USING THIS OR A
 THERE ARE NO WARRANTIES FOR LOSS OR UNINTENDED MODIFICATION OF DATA.
 
 <a href="https://github.com/MetadataDeluxe/adobe_bridge_custom_export-import/archive/release/custom_export_import.zip">![Download button](/images/download_button_003.png)</a>
-version 1.0 2020-11-02
+version 1.0.1
 
  1. Start Adobe Bridge
  2. Go to Bridge Preferences
