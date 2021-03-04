@@ -8,7 +8,7 @@ Metadata Deluxe > [Home](/index.md)
 
 This is a JavaScript extension for [Adobe Bridge](https://www.adobe.com/products/bridge.html) CS5 and higher that allows the user to export and import embedded XMP metadata from media files.
 
-Supported file types: ai, avi, bmp, dng, flv, gif, indd, indt, jpe?g, mp2, mp3, mp4, mov, pdf, png, psd, swf, tiff?, wav, wma, wmv, xmp, xd, and RAW files an XMP sidecar
+Supported file types: ai, avi, bmp, dng, flv, gif, indd, indt, jpe?g, mp2, mp3, mp4, mov, pdf, png, psd, swf, tiff?, wav, wma, wmv, xmp, and RAW files an XMP sidecar
 
 This extension is written in [Adobe ScriptUI](https://estk.aenhancers.com/index.html) and utilizes the [Adobe Bridge XMP scripting API](https://estk.aenhancers.com/10%20-%20Scripting%20Access%20to%20XMP%20Metadata/accessing-the-xmp-scripting-api.html)
 
@@ -33,7 +33,7 @@ IT IS HIGHLY RECOMMENDED THAT YOU BACKUP YOUR IMAGE FILES BEFORE USING THIS OR A
 THERE ARE NO WARRANTIES FOR LOSS OR UNINTENDED MODIFICATION OF DATA.
 
 <a href="https://github.com/MetadataDeluxe/adobe_bridge_custom_export-import/archive/release/custom_export_import.zip">![Download button](/images/download_button_003.png)</a>
-version 1.0.2
+version 1.0.3
 
  1. Start Adobe Bridge
  2. Go to Bridge Preferences
