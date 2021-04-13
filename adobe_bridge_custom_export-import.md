@@ -28,6 +28,8 @@ This extension is written in [Adobe ScriptUI](https://estk.aenhancers.com/index.
 ### Instructional videos (YouTube):
 [Set Up and Exporting](https://youtu.be/twcv2aXyBDc)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/twcv2aXyBDc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 [Importing](https://youtu.be/opD-Fd2NJ64)
 
 [Customizing Fields](https://youtu.be/hDfvu4nF2ko)
