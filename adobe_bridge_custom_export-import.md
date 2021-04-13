@@ -27,7 +27,9 @@ This extension is written in [Adobe ScriptUI](https://estk.aenhancers.com/index.
 
 ### Instructional videos (YouTube):
 [Set Up and Exporting](https://youtu.be/twcv2aXyBDc)
+
 [Importing](https://youtu.be/opD-Fd2NJ64)
+
 [Customizing Fields[(https://youtu.be/hDfvu4nF2ko)
 
 ## Before you begin
