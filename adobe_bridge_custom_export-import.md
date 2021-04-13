@@ -25,13 +25,17 @@ This extension is written in [Adobe ScriptUI](https://estk.aenhancers.com/index.
 
 [This is a free open source project released under the MIT License](https://github.com/MetadataDeluxe/adobe_bridge_custom_export-import/blob/master/LICENSE.txt)
 
-## Installation
-### Before you begin
+### Instructional videos (YouTube):
+[Set Up and Exporting](https://youtu.be/twcv2aXyBDc)
+[Importing](https://youtu.be/opD-Fd2NJ64)
+[Customizing Fields[(https://youtu.be/hDfvu4nF2ko)
 
+## Before you begin
 Backup your files first	
 IT IS HIGHLY RECOMMENDED THAT YOU BACKUP YOUR IMAGE FILES BEFORE USING THIS OR ANY BRIDGE EXTENSION.	
 THERE ARE NO WARRANTIES FOR LOSS OR UNINTENDED MODIFICATION OF DATA.
 
+## Installation
 <a href="https://github.com/MetadataDeluxe/adobe_bridge_custom_export-import/releases/download/v1.0.3/custom_export_import_v1.0.3.jsx">![Download button](/images/download_button_003.png)</a>
 version 1.0.3
 
