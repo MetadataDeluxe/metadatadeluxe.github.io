@@ -30,7 +30,7 @@ This extension is written in [Adobe ScriptUI](https://estk.aenhancers.com/index.
 
 [Importing](https://youtu.be/opD-Fd2NJ64)
 
-[Customizing Fields[(https://youtu.be/hDfvu4nF2ko)
+[Customizing Fields](https://youtu.be/hDfvu4nF2ko)
 
 ## Before you begin
 Backup your files first	
