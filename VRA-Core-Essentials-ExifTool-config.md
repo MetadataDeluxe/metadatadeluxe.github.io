@@ -1,4 +1,5 @@
-[download source on GitHub](https://github.com/MetadataDeluxe/VRA-Core-Essentials-ExifTool-config)
+<a href="https://github.com/MetadataDeluxe/VRA-Core-Essentials-ExifTool-config/archive/refs/tags/v.1.0.zip">![Download button](/images/download_button_003.png)</a>
+version 1.0
 
 ## vra.config for ExifTool
 
