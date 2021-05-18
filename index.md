@@ -4,6 +4,6 @@ Tools for reading and writing [XMP](https://www.adobe.com/products/xmp.html) emb
 
 ### Adobe Bridge Extensions
 - [User customizable export-import](/adobe_bridge_custom_export-import.md)
-- [VRA Core Essentials ExifTool config file](/VRA-Core-Essentials-ExifTool-config)
+- [VRA Core Essentials ExifTool config file](/VRA-Core-Essentials-ExifTool-config.md)
 
 [Feedback: metadatadeluxe@gmail.com](mailto:metadatadeluxe@gmail.com)
