@@ -1,8 +1,8 @@
 [download source on GitHub](https://github.com/MetadataDeluxe/VRA-Core-Essentials-ExifTool-config)
 
-## vra.config
+## vra.config for ExifTool
 
-This is a config file to read and write VRA Core Essentials XMP embedded metadata using [ExifTool.](https://exiftool.org/)
+This is a config file to read and write VRA Core Essentials XMP embedded metadata using [ExifTool by Phil Harvey.](https://exiftool.org/)
 
 [VRA Core schema](http://www.loc.gov/standards/vracore/) is a data standard for the description of works of visual culture as well as the images that document them. 
 
