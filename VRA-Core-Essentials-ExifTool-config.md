@@ -14,8 +14,4 @@ Properties are defined as either Work or Image (Collection is not supported at t
  - Image: describes the photo as a visual surrogate of the Artwork/Object.
  - - When possible, VRA Image properties use IPTC XMP properties in order to maximize interoperability in image processing/editing/database applications.
 
-Properties have a set of indexed values, e.g., WorkAgentIndexed and a corresponding display element, e.g., WorkAgent
- - Indexed values are repeatable, i.e., you can have multiple Agents (architect, landscape architect, etc.). An indexed set is an XMP sequential array or structures.
- - Display values concatenate Indexed values into a single text string that can be modified for readability. A display element is a simple XMP text property.
-
 ## [See full documentation and downloads](https://github.com/MetadataDeluxe/VRA-Core-Essentials-ExifTool-config)
