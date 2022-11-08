@@ -25,7 +25,7 @@ This extension is written in [Adobe ScriptUI](https://estk.aenhancers.com/index.
 
 [This is a free open source project released under the MIT License](https://github.com/MetadataDeluxe/adobe_bridge_custom_export-import/blob/master/LICENSE.txt)
 
-[GitHub repository] (https://github.com/MetadataDeluxe/adobe_bridge_custom_export-import)
+[GitHub repository](https://github.com/MetadataDeluxe/adobe_bridge_custom_export-import)
 
 ## Before you begin
 Backup your files first	
