@@ -9,7 +9,7 @@ Tools for reading and writing [XMP embedded metadata](https://en.wikipedia.org/w
 
 ### ExifTool
 - **VRA Core Essentials ExifTool** - config file to read and write VRA Core Essentials XMP embedded metadata using ExifTool
-  - [download](https://github.com/MetadataDeluxe/VRA-Core-Essentials-ExifTool-config/releases/download/v.1.2/vrae.config)
+  - [info and download](VRA-Core-Essentials-ExifTool-config.md)
   - [GitHub repository](https://github.com/MetadataDeluxe/VRA-Core-Essentials-ExifTool-config)
 
 ---
