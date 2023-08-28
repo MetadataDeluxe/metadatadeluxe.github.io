@@ -20,6 +20,13 @@ Supported file types: ai, avi, bmp, dng, flv, gif, indd, indt, jpg, mp2, mp3, mp
 
 This extension is written in [Adobe ScriptUI](https://estk.aenhancers.com/index.html) and utilizes the [Adobe Bridge XMP scripting API](https://estk.aenhancers.com/10%20-%20Scripting%20Access%20to%20XMP%20Metadata/accessing-the-xmp-scripting-api.html)
 
+## Before you begin
+Backup your files first	
+IT IS HIGHLY RECOMMENDED THAT YOU BACKUP YOUR IMAGE FILES BEFORE USING THIS OR ANY BRIDGE EXTENSION.	
+THERE ARE NO WARRANTIES FOR LOSS OR UNINTENDED MODIFICATION OF DATA.
+
+<a href="https://github.com/MetadataDeluxe/adobe_bridge_metadata_export-import/releases/download/v.1.0.0/export_import_2023-08-16.jsx">![Download button](/images/download_button_003.png)</a>
+
 ## Installation
  1. Start Adobe Bridge
  2. Go to Bridge Preferences
