@@ -1,6 +1,6 @@
 ![metadatadeluxe logo](/images/MdDeluxe_Logo_no_tag.png)
 
-Tools for reading and writing [XMP embedded metadata](https://en.wikipedia.org/wiki/Extensible_Metadata_Platform) that describes works of visual culture as well as the digital media that document them.
+Tools for reading and writing [XMP embedded metadata](https://en.wikipedia.org/wiki/Extensible_Metadata_Platform)
 
 ### Adobe Bridge
 - [Metadata Export-Import](https://github.com/MetadataDeluxe/adobe_bridge_metadata_export-import) - export and import XMP metadata embedded in media files using a tab-delimited text file (spreadsheet)
