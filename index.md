@@ -7,7 +7,7 @@ Tools for reading and writing [XMP embedded metadata](https://en.wikipedia.org/w
     - [download](https://github.com/MetadataDeluxe/adobe_bridge_metadata_export-import/releases/download/v.1.0.0/export_import_2023-08-16.jsx)
 
 ### ExifTool
-- [VRA Core Essentials ExifTool](https://github.com/MetadataDeluxe/VRA-Core-Essentials-ExifTool-config) - onfig file to read and write VRA Core Essentials XMP embedded metadata using ExifTool
+- [VRA Core Essentials ExifTool](https://github.com/MetadataDeluxe/VRA-Core-Essentials-ExifTool-config) - config file to read and write VRA Core Essentials XMP embedded metadata using ExifTool
   - [download](https://github.com/MetadataDeluxe/VRA-Core-Essentials-ExifTool-config/releases/download/v.1.2/vrae.config)
 
 ---
