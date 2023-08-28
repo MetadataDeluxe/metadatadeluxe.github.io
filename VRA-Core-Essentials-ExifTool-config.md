@@ -1,6 +1,4 @@
 ## vra.config for ExifTool
-[GitHub repository](https://github.com/MetadataDeluxe/VRA-Core-Essentials-ExifTool-config)
-###
 
 This is a config file to read and write VRA Core Essentials XMP embedded metadata using [ExifTool.](https://exiftool.org/)
 
@@ -22,6 +20,8 @@ Properties are defined as either Collection, Work, or Image
 Properties have a set of indexed values, e.g., WorkAgentIndexed and a corresponding display element, e.g., WorkAgent
  - Indexed values are repeatable, i.e., you can have multiple Agents (architect, landscape architect, etc.). An indexed set is an XMP sequential array or structures.
  - Display values concatenate Indexed values into a single text string that can be modified for readability. A display element is a simple XMP text property.
+
+[GitHub repository](https://github.com/MetadataDeluxe/VRA-Core-Essentials-ExifTool-config)
 
 ## Use
 Install exiftool v 10.70 or greater. 
