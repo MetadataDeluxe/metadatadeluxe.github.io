@@ -3,7 +3,9 @@
 Tools for reading and writing [XMP embedded metadata](https://en.wikipedia.org/wiki/Extensible_Metadata_Platform) that describes works of visual culture as well as the digital media that document them.
 
 ### Adobe Bridge
-- [User customizable export-import](/adobe_bridge_custom_export-import.md)
+- Metadata Export-Import: export and import XMP metadata embedded in media files using a tab-delimited text file (spreadsheet)
+ - [download](https://github.com/MetadataDeluxe/adobe_bridge_metadata_export-import/releases/download/v.1.0.0/export_import_2023-08-16.jsx)
+
 
 ### ExifTool
 - [VRA Core Essentials ExifTool config file](/VRA-Core-Essentials-ExifTool-config.md)
