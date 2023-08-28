@@ -1,4 +1,6 @@
-## vra.config for ExifTool
+Metadata Deluxe > [Home](/index.md)
+
+# vra.config for ExifTool
 
 This is a config file to read and write VRA Core Essentials XMP embedded metadata using [ExifTool by Phil Harvey.](https://exiftool.org/)
 
