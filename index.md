@@ -4,7 +4,6 @@ Tools for reading and writing [XMP embedded metadata](https://en.wikipedia.org/w
 
 ### Adobe Bridge
 - **Metadata Export-Import** - export and import XMP metadata embedded in media files using a tab-delimited text file (spreadsheet)
-    - [download](https://github.com/MetadataDeluxe/adobe_bridge_metadata_export-import/releases/download/v.1.0.0/export_import_2023-08-16.jsx)
     - [info and download](/adobe_bridge_metadata_export-import.md)
     - [GitHub repository](https://github.com/MetadataDeluxe/adobe_bridge_metadata_export-import)
 
