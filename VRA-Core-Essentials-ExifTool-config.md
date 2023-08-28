@@ -23,6 +23,13 @@ Properties have a set of indexed values, e.g., WorkAgentIndexed and a correspond
  - Indexed values are repeatable, i.e., you can have multiple Agents (architect, landscape architect, etc.). An indexed set is an XMP sequential array or structures.
  - Display values concatenate Indexed values into a single text string that can be modified for readability. A display element is a simple XMP text property.
 
+## Before you begin
+Backup your files first	
+IT IS HIGHLY RECOMMENDED THAT YOU BACKUP YOUR IMAGE FILES BEFORE USING THIS OR ANY BRIDGE EXTENSION.	
+THERE ARE NO WARRANTIES FOR LOSS OR UNINTENDED MODIFICATION OF DATA.
+
+<a href="https://github.com/MetadataDeluxe/VRA-Core-Essentials-ExifTool-config/releases/download/v.1.2/vrae.config">![Download button](/images/download_button_003.png)</a>
+
 ## Use
 Install exiftool v 10.70 or greater. 
  - Place the vrae.config file in the same directory as exiftool.exe.
@@ -57,6 +64,7 @@ See the [Examples folder](https://github.com/MetadataDeluxe/VRA-Core-Essentials-
 #### Write Work MaterialIndexed
 
 `exiftool -config vrae.config -xmp-vrae:WorkMaterialIndexed="[{value=bronze, vocab=AAT, refid=300010957, href=http://vocab.getty.edu/aat/300010957}, {value=marble, vocab=AAT, refid=300011443, href=http://vocab.getty.edu/aat/300011443, extent=base}]" test.jpg`
+
 
 ## ExifTool Tags
 | Tag                                       | /Struct Field | //Struct Field | Type                     | Controled values                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
