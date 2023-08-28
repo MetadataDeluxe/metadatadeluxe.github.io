@@ -12,6 +12,8 @@ Supported file types: ai, avi, bmp, dng, flv, gif, indd, indt, jpe?g, mp2, mp3, 
 
 This extension is written in [Adobe ScriptUI](https://estk.aenhancers.com/index.html) and utilizes the [Adobe Bridge XMP scripting API](https://estk.aenhancers.com/10%20-%20Scripting%20Access%20to%20XMP%20Metadata/accessing-the-xmp-scripting-api.html)
 
+[GitHub repository](https://github.com/MetadataDeluxe/adobe_bridge_metadata_export-import)
+
 ## Main features
  - Export-import from select file(s) or from an entire folder (with option to include all subfolders)
  - Export-import metadata in tab-delimited text files
