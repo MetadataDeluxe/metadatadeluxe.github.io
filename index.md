@@ -1,4 +1,4 @@
-![metadatadeluxe logo](/images/MdDeluxe_Logo_VRA_02.png)
+![metadatadeluxe logo](/images/MdDeluxe_Logo_no_tag)
 
 Tools for reading and writing [XMP embedded metadata](https://en.wikipedia.org/wiki/Extensible_Metadata_Platform) that describes works of visual culture as well as the digital media that document them.
 
